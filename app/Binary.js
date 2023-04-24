@@ -48,7 +48,7 @@ export default function Template() {
                         <Text style={{
                             fontWeight: 'bold',
                             fontSize: 30,
-                            color: 'gray',
+                            color: 'green',
                         }}>{digit}</Text>
                     </Pressable>
                 ))}
