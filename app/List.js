@@ -45,7 +45,6 @@ export default function Template() {
                         }}>{index}</Text>
                 ))}
             </View>
-
         </View>
     );
 }
